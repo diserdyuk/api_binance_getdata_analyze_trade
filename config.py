@@ -1,2 +1,2 @@
-api_key = 'ABCDabcd1234!@#$'
-api_secret = 'ABCDabcd1234!@#$'
+API_KEY = 'AAaaBBbbCCcc12345'
+API_SECRET = 'AAaaBBbbCCcc12345'
